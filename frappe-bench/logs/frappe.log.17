@@ -1,0 +1,1858 @@
+[DEBUG] 2017-05-20 09:14:59,750 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:21:01,361 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:25:02,337 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:29:02,844 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:33:03,251 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:37:03,737 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:41:04,197 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:45:04,650 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:49:05,137 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 09:53:05,817 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:01:41,819 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:05:42,354 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:09:42,808 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:13:43,842 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:17:44,297 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:21:44,762 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:25:45,267 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:29:45,831 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:33:46,317 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:37:46,957 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:41:48,030 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:45:50,032 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:49:50,624 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:53:51,097 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 11:57:51,588 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:01:52,125 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:05:52,586 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:09:53,026 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:13:53,480 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:17:53,934 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:21:54,314 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:25:54,749 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:29:55,155 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:33:55,662 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:37:56,140 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:41:56,884 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:45:57,418 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:49:57,975 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:53:58,395 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 12:57:58,850 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:01:59,426 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:05:59,911 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:10:00,373 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:14:00,841 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:18:01,270 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:22:01,772 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:26:02,222 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:30:02,674 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:34:03,137 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:38:03,586 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:42:04,010 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:46:04,483 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:50:04,938 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 13:54:05,417 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:19:45,583 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:23:47,453 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:27:47,966 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:31:48,468 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:35:48,885 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:39:49,363 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:43:49,875 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:47:50,266 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:51:50,698 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:55:51,084 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 14:59:51,512 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:03:52,025 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:07:52,519 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:11:52,954 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:24:42,694 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:28:43,120 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:32:43,493 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:36:43,897 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:40:45,068 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:44:45,535 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:48:45,955 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:52:46,334 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 15:56:46,730 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:00:47,132 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:07:33,027 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:11:33,891 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:15:34,374 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:19:34,831 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:23:35,307 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:27:35,779 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:31:36,234 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:35:36,978 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:39:37,488 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:43:37,937 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:47:38,409 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:51:38,862 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:55:39,262 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 16:59:40,008 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:03:40,627 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:07:41,111 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:11:41,595 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:15:42,060 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:19:42,520 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:23:42,982 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:27:43,475 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:31:43,892 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:35:44,352 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:39:44,809 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:43:45,271 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:47:45,745 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:51:46,353 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:55:46,746 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 17:59:47,900 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:03:48,568 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:07:49,136 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:11:50,208 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:15:50,770 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:19:51,133 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:23:51,545 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:27:51,911 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:31:52,336 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:35:52,796 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:39:53,161 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:43:53,517 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:47:53,888 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:51:54,471 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:55:55,062 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-20 18:59:55,587 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-21 10:40:35,619 | /bench-repo/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Request Error
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/app.py", line 52, in application
+    init_request(request)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/app.py", line 114, in init_request
+    frappe.local.http_request = frappe.auth.HTTPRequest()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/auth.py", line 39, in __init__
+    self.set_lang()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/auth.py", line 82, in set_lang
+    frappe.local.lang = guess_language()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 27, in guess_language
+    lang_list = get_all_languages() or []
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 82, in get_all_languages
+    return frappe.cache().get_value('languages', _get)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 70, in get_value
+    val = generator()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 81, in _get
+    return frappe.db.sql_list('select name from tabLanguage')
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 206, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 107, in sql
+    self.connect()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 53, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/bench-repo/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/bench-repo/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 191, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (2002, 'Can\'t connect to local MySQL server through socket \'/var/run/mysqld/mysqld.sock\' (2 "No such file or directory")')
+[ERROR] 2017-05-21 10:40:35,870 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2017-05-21 10:40:35.672370-127.0.0.1-6c6
+[ERROR] 2017-05-21 14:24:43,603 | /bench-repo/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Request Error
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/app.py", line 52, in application
+    init_request(request)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/app.py", line 114, in init_request
+    frappe.local.http_request = frappe.auth.HTTPRequest()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/auth.py", line 39, in __init__
+    self.set_lang()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/auth.py", line 82, in set_lang
+    frappe.local.lang = guess_language()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 27, in guess_language
+    lang_list = get_all_languages() or []
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 82, in get_all_languages
+    return frappe.cache().get_value('languages', _get)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 70, in get_value
+    val = generator()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 81, in _get
+    return frappe.db.sql_list('select name from tabLanguage')
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 206, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 107, in sql
+    self.connect()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 53, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/bench-repo/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/bench-repo/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 191, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (2002, 'Can\'t connect to local MySQL server through socket \'/var/run/mysqld/mysqld.sock\' (2 "No such file or directory")')
+[ERROR] 2017-05-21 14:24:43,813 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2017-05-21 14:24:43.605371-127.0.0.1-2d8
+[DEBUG] 2017-05-21 14:38:24,352 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 14:42:24,796 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 14:46:25,179 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 14:50:25,570 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 14:54:25,975 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 14:58:26,367 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:02:26,799 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:06:27,191 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:10:27,576 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:14:28,247 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:18:28,780 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:22:29,317 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:26:29,820 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:30:30,207 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:34:30,641 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:38:31,028 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:42:31,489 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:46:31,982 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:50:32,373 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:54:32,784 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 15:58:33,181 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:02:33,621 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:06:34,035 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:10:34,572 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:14:34,967 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:18:35,370 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:22:35,756 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:26:36,160 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:30:36,573 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:34:36,999 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:38:37,699 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:42:38,284 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:46:38,791 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:50:39,250 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:54:39,715 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 16:58:40,163 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:02:40,762 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:06:41,183 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:10:42,461 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:14:42,989 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:18:43,517 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:22:44,146 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:26:46,095 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:30:46,735 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:34:47,308 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:38:47,704 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:42:48,574 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:46:49,098 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:50:49,569 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:54:50,111 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 17:58:51,489 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 18:02:52,245 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 18:06:52,695 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 18:10:53,149 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 18:14:53,556 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 18:18:54,068 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 18:22:54,553 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 18:26:54,944 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:15:38,590 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:19:39,159 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:23:39,793 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:27:40,538 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:31:41,039 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:35:41,491 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:39:41,905 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:43:42,337 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:47:55,284 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:51:55,759 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:55:56,255 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 20:59:57,474 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:03:58,064 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:07:58,518 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:11:58,946 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:15:59,553 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:20:00,200 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:24:00,644 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:28:01,069 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:32:01,473 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:36:01,989 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:40:02,427 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:44:02,964 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:48:03,404 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:52:03,911 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 21:56:04,300 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:00:04,732 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:04:05,189 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:08:05,789 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:12:06,413 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:16:06,913 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:37:07,543 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:41:08,756 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:45:09,264 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:49:09,691 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:55:36,043 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 22:59:36,462 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:03:36,894 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:07:37,291 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:11:37,713 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:15:38,143 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:19:38,580 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:23:38,970 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:27:39,372 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:31:39,784 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:35:40,365 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:39:40,932 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:43:41,483 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:47:41,999 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:51:42,486 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:55:42,889 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-21 23:59:43,261 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:03:43,994 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:07:44,619 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:11:45,110 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:15:45,538 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:19:45,985 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:23:46,434 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:27:47,182 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:31:47,690 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:35:48,131 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:39:48,545 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:43:48,944 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:47:49,344 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:51:49,810 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:55:50,278 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 00:59:50,662 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:03:51,221 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:07:51,745 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:11:52,189 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:15:52,595 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:19:53,103 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:23:53,697 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:27:54,494 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:31:54,909 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 01:35:55,318 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:14:09,334 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:18:09,919 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:22:10,424 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:26:10,949 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:30:11,431 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:34:11,979 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:38:12,549 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:42:13,055 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:46:13,538 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 09:50:14,050 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 10:56:56,299 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 11:06:23,871 | /bench-repo/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Request Error
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/app.py", line 52, in application
+    init_request(request)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/app.py", line 114, in init_request
+    frappe.local.http_request = frappe.auth.HTTPRequest()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/auth.py", line 39, in __init__
+    self.set_lang()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/auth.py", line 82, in set_lang
+    frappe.local.lang = guess_language()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 27, in guess_language
+    lang_list = get_all_languages() or []
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 82, in get_all_languages
+    return frappe.cache().get_value('languages', _get)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 70, in get_value
+    val = generator()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/translate.py", line 81, in _get
+    return frappe.db.sql_list('select name from tabLanguage')
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 206, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 107, in sql
+    self.connect()
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/database.py", line 53, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/bench-repo/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/bench-repo/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 191, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (2002, 'Can\'t connect to local MySQL server through socket \'/var/run/mysqld/mysqld.sock\' (2 "No such file or directory")')
+[ERROR] 2017-05-22 11:06:24,142 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2017-05-22 11:06:23.945507-127.0.0.1-06a
+[DEBUG] 2017-05-22 11:11:14,877 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:15:15,255 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:19:15,640 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:23:16,052 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:27:16,433 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:31:16,832 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:35:17,235 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:39:17,616 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:43:18,018 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:47:18,453 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2017-05-22 11:51:18,846 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 11:55:19,322 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 11:55:19,532 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 11:59:19,835 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 11:59:19,909 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:03:20,227 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:03:20,328 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:07:20,651 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:07:20,800 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:11:21,116 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:11:21,225 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:15:21,546 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:15:21,621 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:19:21,938 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:19:22,019 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:23:22,331 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:23:22,415 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:27:22,740 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:27:22,827 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:31:23,142 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:31:23,280 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:35:23,592 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:35:23,681 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:39:24,004 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:39:24,095 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:43:24,409 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:43:24,489 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:47:24,798 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:47:24,896 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:51:25,219 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:51:25,316 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:55:25,631 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:55:25,722 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 12:59:26,042 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 12:59:26,145 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:03:26,449 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:03:26,556 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:07:26,868 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:07:26,962 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:11:27,272 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:11:27,363 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:15:27,685 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:15:27,749 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:19:28,069 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:19:28,167 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:23:28,489 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:23:28,569 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:27:28,894 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:27:28,977 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:31:29,296 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:31:29,387 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:35:29,697 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:35:29,822 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:39:30,130 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:39:30,240 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:43:30,550 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:43:30,659 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:47:30,975 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:47:31,103 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:51:31,407 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:51:31,491 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:55:31,780 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:55:31,889 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 13:59:32,221 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 13:59:32,297 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 14:03:32,618 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 14:03:32,760 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 14:07:33,083 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 14:07:33,169 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 14:11:33,498 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 14:11:33,573 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 14:15:33,894 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 14:15:33,998 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2017-05-22 14:19:34,312 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: royklickinvite.erpnext.com
+Exception in Enqueue Events for Site royklickinvite.erpnext.com
+Traceback (most recent call last):
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 55, in enqueue_events_for_site
+    frappe.init(site=site)
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 134, in init
+    local.conf = _dict(get_site_config())
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 186, in get_site_config
+    config.update(get_file_json(site_config))
+  File "/bench-repo/frappe-bench/apps/frappe/frappe/__init__.py", line 864, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 380, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 5 column 1 (char 94)
+
+[DEBUG] 2017-05-22 14:19:34,439 | /bench-repo/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local

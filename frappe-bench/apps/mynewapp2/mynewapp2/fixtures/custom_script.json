@@ -1,0 +1,20 @@
+[
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "MyProjects", 
+  "modified": "2017-05-29 18:05:08.527221", 
+  "name": "MyProjects-Client", 
+  "script": "frappe.ui.form.on(\"MyProjects\", \"validate\", function(frm, cdt, cdn){\n\tif(frm.doc.start_date<get_today())\n\t{\n\t\tmsgprint(__(\"Please select date after today!!\"));\n\t\tvalidated=false;\n\t}\n});\n\nfrappe.ui.form.on(\"MyProjects\", {\n\trefresh: function(frm) {\n\t\t$.ajax({\n\t\t\turl: \"https://maps.googleapis.com/maps/api/geocode/json?address=110057&key=AIzaSyBWwdApGpTxis4wrIDLrKVaZPmhIQvRMtw\",\n\t\t\ttype: 'POST',\n\t\t\tdataType: 'json',\n\t\t\tsuccess: function (data, textStatus, xhr) {\n\t\t\t\t\n\t\t\tmsgprint(__(data['results'][0]['address_components'][1]['long_name']));\n\t\t\t},\n\t\t\terror: function (data, textStatus, xhr) {\n\t\t\t\tmsgprint(__(\"Failure!!\"));\n\t\t\t},\n\t\t});\n\t}\n});\n\nfrappe.ui.form.on('MyProjects', {\n\tproject_guide: function(frm,cdt,cdn) {\n\t\tvar project = frappe.model.get_doc(cdt,cdn)\n\t\tif(project.project_guide)\n\t\t{\n\t\t\tfrm.call({\n\t\t\t\tmethod:\"mynewapp2.random.myprojects.set_dep\",\n\t\t\t\targs:{\n\t\t\t\t\tguide:project.project_guide,\n\t\t\t\t},\n\t\t\t\tcallback:function(r){\n\t\t\t\t\tvar obj = JSON.parse(r.message);\n\t\t\t\t\tfrappe.model.set_value(cdt,cdn,\"dept\",obj.department);\n\t\t\t\t\tfrappe.model.set_value(cdt,cdn,\"instructor_name\",obj.instructor_name);\n\t\t\t\t\tvar code = obj.department+\"-.###\";\n\t\t\t\t\tfrm.set_df_property('naming_series','options',[code]);\n\t\t\t\t\tfrm.refresh_field('naming_series');\n\t\t\t\t}\n\t\t\t});\n\t\t}\n\t\telse\n\t\t{\n\t\t\tfrappe.model.set_value(cdt,cdn,\"dept\",null);\n\t\t}\n\t\t\n\t}\n});\n", 
+  "script_type": "Client"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "Student", 
+  "modified": "2017-05-22 11:18:12.561412", 
+  "name": "Student-Client", 
+  "script": "frappe.ui.form.on(\"Student\",{\n\trefresh:function(frm, cdt, cdn){\n\t\tfrappe.model.set_value(cdt,cdn,\"pincode\",\"123456\");\n\t\tmsgprint(__(\"MyProjects\"));\n\t\tmsgprint(__(\"CSE-100\"));\n\t\tvar obj = frappe.get_doc(\"MyProjects\",\"CSE-100\");\n\t\tmsgprint(__(obj.project_title));\n\t}\n});", 
+  "script_type": "Client"
+ }
+]

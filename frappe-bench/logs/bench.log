@@ -1,0 +1,62 @@
+2017-05-19 21:18:30,786 INFO getting app erpnext
+2017-05-19 21:18:30,873 INFO git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2017-05-19 21:29:27,638 INFO installing erpnext
+2017-05-19 21:29:27,639 INFO ./env/bin/pip install -q  -e ./apps/erpnext --no-cache-dir
+2017-05-19 21:33:34,457 INFO getting app erpnext
+2017-05-19 21:33:34,520 INFO git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2017-05-19 22:29:13,771 INFO updating bench
+2017-05-19 22:29:13,807 INFO git pull
+2017-05-19 22:29:41,909 INFO ./env/bin/pip install Pillow
+2017-05-19 22:29:49,376 INFO pulling frappe
+2017-05-19 22:29:49,388 INFO git pull  upstream develop
+2017-05-19 22:29:57,651 INFO find . -name "*.pyc" -delete
+2017-05-19 22:29:57,751 INFO pulling erpnext
+2017-05-19 22:29:57,765 INFO git pull  upstream develop
+2017-05-19 22:30:05,686 INFO find . -name "*.pyc" -delete
+2017-05-19 22:30:05,790 INFO ./env/bin/pip install --upgrade pip
+2017-05-19 22:30:10,972 INFO ./env/bin/pip install -q -r /bench-repo/requirements.txt
+2017-05-19 22:30:32,618 INFO ./env/bin/pip install -q -r ./apps/erpnext/requirements.txt
+2017-05-19 22:30:36,164 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-05-20 00:40:08,312 INFO updating bench
+2017-05-20 00:40:08,347 INFO git pull
+2017-05-20 00:40:41,211 INFO ./env/bin/pip install Pillow
+2017-05-20 00:40:48,097 INFO pulling frappe
+2017-05-20 00:40:48,113 INFO git pull  upstream develop
+2017-05-20 00:40:57,894 INFO find . -name "*.pyc" -delete
+2017-05-20 00:40:57,994 INFO pulling erpnext
+2017-05-20 00:40:58,010 INFO git pull  upstream develop
+2017-05-20 00:41:07,608 INFO find . -name "*.pyc" -delete
+2017-05-20 00:41:07,755 INFO ./env/bin/pip install --upgrade pip
+2017-05-20 00:41:17,746 INFO ./env/bin/pip install -q -r /bench-repo/requirements.txt
+2017-05-20 00:41:20,065 INFO ./env/bin/pip install -q -r ./apps/erpnext/requirements.txt
+2017-05-20 00:41:23,907 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-05-20 00:49:47,723 INFO updating bench
+2017-05-20 00:49:47,724 INFO git pull
+2017-05-20 00:50:26,230 INFO ./env/bin/pip install Pillow
+2017-05-20 15:19:36,066 INFO updating bench
+2017-05-20 15:19:36,084 INFO git pull
+2017-05-20 15:19:49,240 INFO ./env/bin/pip install Pillow
+2017-05-21 10:41:16,679 INFO updating bench
+2017-05-21 10:41:16,688 INFO git pull
+2017-05-21 10:46:08,945 INFO ./env/bin/pip install Pillow
+2017-05-23 11:45:24,863 INFO updating bench
+2017-05-23 11:45:24,877 INFO git pull
+2017-05-24 18:52:37,901 INFO creating new app mynewapp
+2017-05-24 18:53:28,907 INFO installing mynewapp
+2017-05-24 18:53:28,908 INFO ./env/bin/pip install -q  -e ./apps/mynewapp --no-cache-dir
+2017-05-25 11:41:27,387 INFO updating bench
+2017-05-25 11:41:27,402 INFO git pull
+2017-05-25 12:03:24,585 INFO creating new app mynewapp2
+2017-05-25 12:04:00,710 INFO installing mynewapp2
+2017-05-25 12:04:00,711 INFO ./env/bin/pip install -q  -e ./apps/mynewapp2 --no-cache-dir
+2017-05-26 11:19:41,125 INFO sudo supervisorctl restart frappe:
+2017-05-26 11:19:55,377 INFO updating bench
+2017-05-26 11:19:55,378 INFO git pull
+2017-06-01 13:32:52,411 INFO updating bench
+2017-06-01 13:32:52,428 INFO git pull
+2017-06-01 14:38:11,374 INFO updating bench
+2017-06-01 14:38:11,378 INFO git pull
+2017-06-01 14:40:08,853 INFO ./env/bin/pip install Pillow
+2017-06-05 11:58:33,233 INFO updating bench
+2017-06-05 11:58:33,241 INFO git pull
+2017-06-05 11:58:58,798 INFO ./env/bin/pip install Pillow
